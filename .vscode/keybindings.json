@@ -1,0 +1,17 @@
+[
+  {
+    "key": "ctrl+scroll",
+    "command": "editor.action.fontZoomIn",
+    "when": "editorFocus"
+  },
+  {
+    "key": "ctrl+shift+scroll",
+    "command": "editor.action.fontZoomOut",
+    "when": "editorFocus"
+  },
+  {
+    "key": "ctrl+0",
+    "command": "editor.action.fontZoomReset",
+    "when": "editorFocus"
+  }
+]
